@@ -58,9 +58,8 @@ Interpretation of MSE:
 
 *Higher MSE means the model is performing poorly because the errors between actual and predicted values are large.
 
-6.Mean Squared Error (MSE)
-MSE is the average of the squared differences between the actual values and the predicted values. It quantifies how far off the predictions are from the true values.
-Interpretation of RMSE:
+6.Root Mean Squared Error (RMSE)
+RMSE is simply the square root of the MSE. It is often preferred over MSE because it has the same unit of measurement as the original data, making it easier to interpret.
 
 *RMSE is a measure of the average magnitude of the error. It’s more interpretable because it brings the error back to the original scale of the data (e.g., meters, dollars, etc.).
 
